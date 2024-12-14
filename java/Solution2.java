@@ -1,5 +1,12 @@
 // Write a program to show the concept of class.
 
+
+// Output:
+
+// Name: Sushil
+// Course: BCA
+// Year: 3
+
 public class Solution2 {
 
     public static void main(String[] args) {
